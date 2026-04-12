@@ -136,3 +136,5 @@ Turning it into a simple GUI app or a web app
 📜 License
 This project is free to use, modify, and learn from.
 You can add an official license (like MIT) here if you want.
+## Author
+Gaurang Sharma
